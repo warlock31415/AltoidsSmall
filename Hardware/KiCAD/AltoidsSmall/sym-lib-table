@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AltoidsSmall)(type Legacy)(uri ${KIPRJMOD}/AltoidsSmall.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name AltoidsSmall)(type KiCad)(uri E:/Projects/AltoidsSmall/Hardware/KiCAD/AltoidsSmall.pretty)(options "")(descr ""))
+)
